@@ -1,18 +1,16 @@
-# Feira de jogos
+# Games fair
 
-
-## Sobre
-Pequeno programa de jogos de terminal em Python, incluindo jogo da forca e jogo da velha
-<br/>
+## About
+Small terminal game program including hangman and tic-tac-toe using Python
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 
-## Como utilizar
+## How to use
 
-### Clone este projeto e abra no VSCode
+### Clone this repository and open it on VSCode
 
 ```
 git clone
@@ -24,12 +22,12 @@ cd feira-de-jogos
 code .
 ```
 
-### Instale a extensão para Python no VSCode e execute o programa no terminal
+### Install Python extension on VSCode and run it on the terminal
 ```
 py main.py
 ```
 
 <br/>
-Baixe o <a href="https://git-scm.com/">GIT</a>, <a href="https://www.python.org/downloads/">Python</a> e o <a href="https://code.visualstudio.com/">VSCode</a> na sua máquina.
+Install <a href="https://git-scm.com/">GIT</a>, <a href="https://www.python.org/downloads/">Python</a> and <a href="https://code.visualstudio.com/">VSCode</a> on your computer.
 <br/><br/>
-<b>Autor:</b> <a href="https://beacons.ai/danvinicius">Daniel Vinícius</a>
+<b>Author:</b> <a href="https://beacons.ai/danvinicius">Daniel Vinícius</a>
